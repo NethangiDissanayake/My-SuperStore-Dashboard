@@ -4,10 +4,10 @@ A comprehensive sales analytics dashboard providing insights into revenue, profi
 
 ## Dashboard Overview
 ### Basic Dashboard
-![Sales Dashboard Preview](Assets/Glance1.png)
+![Sales Dashboard Preview](Assets/Glance 1.png)
 
 ### Forecasting Dashboard
-![Sales Dashboard Preview](Assets/Glance2.png)
+![Sales Dashboard Preview](Assets/Glance 2.png)
 
 
 ## Key Performance Indicators
