@@ -2,6 +2,14 @@
 Transform raw sales data into actionable insights!
 A comprehensive sales analytics dashboard providing insights into revenue, profitability, and customer behavior patterns.
 
+## Dashboard Overview
+### Basic Dashboard
+![Sales Dashboard Preview](Assets/Glance1.png)
+
+### Forecasting Dashboard
+![Sales Dashboard Preview](Assets/Glance2.png)
+
+
 ## Key Performance Indicators
 - **Sales**: Total revenue generated
 - **Profit**: Net earnings after costs
