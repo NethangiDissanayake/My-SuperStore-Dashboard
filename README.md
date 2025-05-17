@@ -4,10 +4,10 @@ A comprehensive sales analytics dashboard providing insights into revenue, profi
 
 ## Dashboard Overview
 ### Basic Dashboard
-![My-SuperStore-Dashboard Preview](Assets/Glance 1.png)
+![My-SuperStore-Dashboard Preview](Assets/Glance1.png)
 
 ### Forecasting Dashboard
-![My-SuperStore-Dashboard Preview](Assets/Glance 2.png)
+![My-SuperStore-Dashboard Preview](Assets/Glance2.png)
 
 
 ## Key Performance Indicators
